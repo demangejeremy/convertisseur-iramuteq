@@ -1,0 +1,3 @@
+# Convertisseur des corpus texte en format Iramuteq
+
+Documentation à venir...
